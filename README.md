@@ -89,4 +89,4 @@ To prevent unnecessary Rekognition calls, the application stores labels in SQLit
 * Backend: FastAPI (Python)
 * AWS: Lambda, Rekognition, S3
 * Database: SQLite3
-* Deployment: AWS S3, EC2, Amplify (Optional)
+* Deployment: AWS S3 , locally
